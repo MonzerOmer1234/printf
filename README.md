@@ -4,3 +4,4 @@ fixed some missing codes
 made functions.c
 made functions2.c
 made get_flafs.
+get precision
